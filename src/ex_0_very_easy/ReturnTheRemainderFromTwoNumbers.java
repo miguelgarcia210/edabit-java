@@ -1,4 +1,4 @@
-package ex_2_medium;
+package ex_0_very_easy;
 
 public class ReturnTheRemainderFromTwoNumbers {
 
